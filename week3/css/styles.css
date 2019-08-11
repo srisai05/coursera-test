@@ -74,6 +74,7 @@ body {
 #main-content {
     width: 92%;
     margin-bottom: 30px;
+    background-color: red;
 }
 
 #main-content h2 {
